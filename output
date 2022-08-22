@@ -1,0 +1,9 @@
+PS C:\Users\ankita.kavathekar\Documents\GitHub> g++ palindrome.c
+PS C:\Users\ankita.kavathekar\Documents\GitHub> .\a.exe
+enter the no 153
+binary representation is: 10011001
+it's palindrome
+PS C:\Users\ankita.kavathekar\Documents\GitHub> .\a.exe
+enter the no 50
+binary representation is: 00110010
+Not palindrome
